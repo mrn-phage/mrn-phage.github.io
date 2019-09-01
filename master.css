@@ -353,7 +353,7 @@ header {
 }
 
 .top-bar {
-  background-image: url(../img/qbkls.png);
+  background-image: url(qbkls.png);
   background-repeat: repeat;
   color: gray;
   width: 100vm;
